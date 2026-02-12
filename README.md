@@ -95,8 +95,8 @@
 
   <div class="card" id="card">
     <h1>💙 ¿Quieres ser mi San Valentín? 💙</h1>
-    <p>Con cariño, Piero ✨</p>
-    <p>Prometo momentos bonitos, risas infinitas y muchos besos contigo 🥹</p>
+    <p>Con cariño, Piero xd ✨</p>
+    <p>Se que no estamos juntos pero, prometo momentos bonitos, risas infinitas y muchos besos contigo 🥹</p>
     
     <div class="buttons">
       <button id="yes">Sí 💘</button>
@@ -130,7 +130,7 @@
       card.innerHTML = `
         <h1>🥰 Sabía que dirías que sí</h1>
         <p>Ahora oficialmente eres mi San Valentín 💙</p>
-        <p>Te quiere mucho, Piero ✨</p>
+        <p>Te quiere mucho Jaysy</p>
       `;
       createHearts();
       music.play();
